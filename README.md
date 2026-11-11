@@ -1,4 +1,4 @@
-# PRTG-OPCUA-Server (Code by Daniel Jark)
+# PRTG-OPCUA-Server
 
 Dieses Python-Skript liest zyklisch Sensoren aus PRTG (über die v2-API), spiegelt sie als OPC-UA-Objekte und stellt ihre wichtigsten Statuswerte für externe Systeme bereit.
 
